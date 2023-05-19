@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
 <h3 align="center">A passionate Backend developer and Software Engineer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/darkb0ts/darkb0ts/blob/main/githubimage.gif">
-<style>
-p4 {
-  color: red;
-  font-size: 20px;
-}
-</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkb0ts&label=Profile%20views&color=0e75b6&style=flat" alt="darkb0ts" /> </p>
 
@@ -21,15 +15,8 @@ p4 {
 
 - 📫 How to reach me **prasanna110600@gmail.com**
 
-<p4>⚡ Fun fact **Talk is Cheap Show me the Code......**</p4>
+- ⚡ Fun fact **Talk is Cheap Show me the Code......**
 
-<script>
-function changeColor() {
-  var p4 = document.querySelector('p4');
-  p4.style.color = 'rgb(' + Math.floor(Math.random() * 255) + ',' + Math.floor(Math.random() * 255) + ',' + Math.floor(Math.random() * 255) + ')';
-}
-window.setInterval(changeColor, 1000);
-</script>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/-darkb0ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-darkb0ts" height="30" width="40" /></a>
