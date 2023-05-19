@@ -1,4 +1,4 @@
-<![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
 <h3 align="center">A passionate Backend developer and Software Engineer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
