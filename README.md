@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
-<h3 align="center">A passionate Backend developer and Software Engineer from Earth</h3>
+<h3 align="center">I'm a Backend developer and Software Engineer from Earth with a passion for building scalable and reliable software systems. I have a strong understanding of backend technologies, such as Python, and C# and C Programming, and I'm proficient in a variety of programming languages and frameworks. I'm also experienced in working with databases and distributed systems</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/darkb0ts/darkb0ts/blob/main/githubimage.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkb0ts&label=Profile%20views&color=0e75b6&style=flat" alt="darkb0ts" /> </p>
