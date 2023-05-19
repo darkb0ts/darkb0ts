@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **System Design and DSA**
 
-- 👯 I’m looking to collaborate on **Backend and Software Development**
+- 👯 I’m looking to collaborate on **Backend and Software Development and IOT Project..**
 
 - 💬 Ask me about **Python, C# ,C And CyberSecurity and DSA**
 
