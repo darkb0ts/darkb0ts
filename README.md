@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=text%20Box%20🤖&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
 <h3 align="center">I'm a Backend developer and Software Engineer from Earth with a passion for building scalable and reliable software systems. I have a strong understanding of backend technologies, such as Python, and C# and C Programming, and I'm proficient in a variety of programming languages and frameworks. I'm also experienced in working with databases and distributed systems</h3>
 # 💫 About Me:
