@@ -1,4 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
 <h3 align="center">Hi there! I'm Prasanna, a passionate software engineer with a diverse skill set and a keen interest in cutting-edge technologies. With a strong foundation in Python, Golang, PHP, SQL, Redis, Docker, AWS, and more, I thrive in developing scalable and efficient software solutions. My experience includes building robust applications, managing databases, implementing efficient caching, and leveraging AWS cloud services. I'm a continuous learner, currently exploring machine learning (TensorFlow, PyTorch) and DevOps to expand my skillset. Additionally, I possess a strong understanding of cybersecurity principles and contribute to open-source projects, ensuring the security and integrity of my work.</h3>
 
@@ -15,8 +17,6 @@
 - 💬 Ask me about **Cyber Security & Software Development**
 
 - 📫 How to reach me **prasanna11600@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/darkb0ts/darkb0ts.github.io/blob/main/PrasannaK.pdf](https://github.com/darkb0ts/darkb0ts.github.io/blob/main/PrasannaK.pdf)
 
 - ⚡ Fun fact **Talk is Cheap Show me the Code......**
 
@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkb0ts&show_icons=true&locale=en" alt="darkb0ts" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkb0ts&" alt="darkb0ts" /></p>
+
 
