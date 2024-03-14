@@ -1,6 +1,10 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
-<h3 align="center">I'm a Backend developer and Software Engineer from Earth with a passion for building scalable and reliable software systems. I have a strong understanding of backend technologies, such as Python, and C# and C Programming, and I'm proficient in a variety of programming languages and frameworks. I'm also experienced in working with databases and distributed systems</h3>
+<h3 align="center">Hi there! I'm Prasanna, a passionate software engineer with a diverse skill set and a keen interest in cutting-edge technologies.
+
+With a strong foundation in Python, Golang, PHP, SQL, Redis, Docker, AWS, and more, I thrive in developing scalable and efficient software solutions. My experience includes building robust applications, managing databases, implementing efficient caching, and leveraging AWS cloud services.
+
+I'm a continuous learner, currently exploring machine learning (TensorFlow, PyTorch) and DevOps to expand my skillset. Additionally, I possess a strong understanding of cybersecurity principles and contribute to open-source projects, ensuring the security and integrity of my work.</h3>
 # 💫 About Me:
 
 - 🔭 I’m currently working on **Raspberry Pi Iot Project**
