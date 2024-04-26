@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/prasanna1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com" height="30" width="40" /></a>
 <a href="https://instagram.com/i.am.prasana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.prasana" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://darkb0ts.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://darkb0ts.hashnode.dev/" height="30" width="40" /></a>
+<a href="https://darkb0ts.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.dev/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/darkbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darkbat" height="30" width="40" /></a>
 </p>
 
