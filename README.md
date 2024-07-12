@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://github.com/darkb0ts/darkb0ts/blob/main/githubimage.gif)](https://github.com/Akshay090/svg-banners)
 
 
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
